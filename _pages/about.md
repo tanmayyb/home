@@ -2,24 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle:  <em> In theory, theory and practice are the same. In practice, they're not. - Yogi Berra </em> 
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: tanmay_bishnoi.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>25 Selby St.</p>
+    <p>Toronto, ON M4Y0E6</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a 4th year Electrical Engineer in training at TMU (formerly Ryerson University). I am familiar with writing applications in Python, C/C++ and JavaScript for a variety of projects.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am deeply interested in the areas of `Cognitive Robotics`, `Applied Machine Learning`, `Human-Robot Interaction`, and `Neuroinformatics`. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My ethos is to put creativity and passion into my projects and take responsibility in team success by championing quality and proactive communication. Creative team culture is my passion and my obsession.
