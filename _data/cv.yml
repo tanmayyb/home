@@ -2,96 +2,93 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Tanmay Bishnoi
     - name: Date of Birth
-      value: 14th March 1879
+      value: October 2001
     - name: Languages
-      value: English, German
+      value: English, Hindi
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelors of Electrical Engineering
+      institution: Toronto Metropolitan University
+      year: 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Dean's List
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Project Developer - Machine Learning
+      institution: UofT Machine Intelligence Student Team (UTMIST), UofT
+      year: Jan 2023 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Researching ML solutions for wind turbine audibility and noise contamination project for Aercoustics Ltd.
+        - Assisting with audio data preprocessing, exploratory data analysis, and audio classification literature reviews
+        - Analysing and Reporting model performance with evaluation metrics and interpretability techniques
+
+    - title: Undergraduate Research Assistant - Drone Navigation 
+      institution: Autonomous Vehicles Lab (AVL), TMU
+      year: Aug 2022 - Jan 2023
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Researched a graph-based SLAM algorithm for aerial drones under the supervision of Dr. Reza Faeighi
+        - Implemented indoor 3D mapping on aerial drone testbed and researched object collision avoidance algorithms
+        - Developed software tools in Qt and C++ for research, testing, and development of drone sub-systems
+    
+    - title: Machine Learning Research Student
+      institution: Neuromatch Academy 
+      year: July 2022 - Aug 2022
       description:
+      - Studied deep learning fundamentals such as Neural Networks, Optimisation and Regularization
+      - Developed ML pipeline for detection and localisation of screws using Yolov3 and explored robotic arm control
+        algorithms for sorting screws into categories under supervision of Dr. Subhrasankar Chatterjee (IIT-KGP)
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
 
-- title: Open Source Projects
+    - title: Software Team Lead - Autonomy
+      institution: R3 Robotics at TMU
+      year: Feb. 2022 - Present
+      description:
+      - Developed full-stack autonomy software in Python and ROS2 for Mars Rover
+      - Implemented ML pipeline for visual autonomy and pointcloud-based obstacle avoidance using Zed cameras
+      - Achieved <2m accuracy for point-to-point robust autonomous traversal on wide range of terrains
+      - Secured position in top 5% at the prestigious University Rover Competition (URC) held at MDRS, Utah, USA
+      - Mentored team members on goal-setting and problem solving and contributed 8K+ lines of code via Git
+
+- title: Software Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Histopathologic Cancer Detection
+      year: Nov 2022 - Nov 2022
+      description: 
+      - Developed CNN model to detect cancer using dataset of 220k histopathological images of tissue samples
+      - Employed knowledge of image analysis, data pre-processing, regularization and model design techniques
+      - Achieved validation accuracy of 85.75% on training using 2200 images (10%) of available training data
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - title: Computational Neuroscience Capstone Project
+      year: June 2021 - July 2021
+      description: 
+      - Supervised by Dr. Matthew Krauss (McGill University) for capstone project titled “Feedforward Functional
+        Hierarchy of Information Processing in the Mouse Brain during a Sensorimotor Task”
+      - Researched Computational and Statistical techniques in Neuroscience contexts for >160 hours
+      - Presented project virtually at the Neuromatch Academy Computational Neuroscience 2021 capstone meet
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+
+    - title: Artificial Intelligence
+
+    - title: Computational Neuroscience
+
+    - title: Robotics
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Influences:</u> Antoine Panaioti, Chakravarti Ram-Prasad, John Vervaeke, Sam Harris
+    - <u>Philosophy:</u> Indian Philosophy (Hindu and Buddhist), Consciousness, Metaphysics, Epistemology, Phenomenology
+    - <u>Hobbies:</u>  Brazillian Jiu Jutsu, Rock Climbing, Volleyball, Winetasting  
+    - <u>Video Games:</u> Battlefield 4, Cyberpunk2077, Witcher 3
+
+

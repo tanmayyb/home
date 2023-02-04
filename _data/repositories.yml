@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - tanmayyb
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - tanmayyb/ml-custom-object-detection
+  - tanmayyb/MultiFibonacci
+  - tanmayyb/state_machine_visualiser
+  - tanmayyb/optimal_leetcode_solutions
+  - tanmayyb/robotik-python
+  - tanmayyb/fourier-series-visualisation
