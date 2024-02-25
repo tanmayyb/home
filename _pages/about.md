@@ -18,8 +18,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Hi,
-I'm an undergraduate in Electrical Engineering at TMU, Toronto with an expected degree date of August 2025. I'm presently on Professional Engineering Year (PEY) at Advanced MicroDevices Inc. (AMD) as a Software Solutions Engineering Intern till the end of April 2024.
+I'm an undergraduate in `Electrical Engineering` at TMU, Toronto with an expected degree date of August 2025. I'm presently on Professional Engineering Year (PEY) at `Advanced MicroDevices Inc. (AMD)` as a Software Solutions Engineering Intern till the end of April 2024.
 
-My passion is grounded in the study, design, and engineering of all things intelligent. This has attracted me to fields such as Robotics, Computational Neuroscience, Machine Learning, and lately, AI. I have industry experience in Robotics, ML Engineering, and Software Engineering. My research interests lie in Autonomous Vehicles, Bio-inspired Robotics, cool applications of ML, BCIs, and Conciousness.
+My passion is grounded in the study, design, and engineering of all things intelligent. This has attracted me to fields such as `Robotics`, `Computational Neuroscience`, `Machine Learning`, and lately, `AI`. I have industry experience in `Robotics`, `ML Engineering`, and `Software Engineering`. My research interests lie in `Autonomous Vehicles (AV)`, `Bio-inspired Robotics`, cool applications of ML, `Brain-Computer Interface (BCI)`, and `Conciousness`.
 
-Hopefully one day I can discover something that is universally applicable to these distant fields.
+I hope to one day generate significant contributions to these field.
