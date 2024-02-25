@@ -17,8 +17,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I'm a year-4 Electrical Engineering undergrad at TMU, Toronto. I'm currently on a PEY at Advanced MicroDevices Inc. (AMD) working as a Software Solutions (R&D) Engineering Intern to help AMD optimize power for next-gen APU software architectures.
+Hi,
+I'm an undergraduate in Electrical Engineering at TMU, Toronto with an expected degree date of August 2025. I'm presently on Professional Engineering Year (PEY) at Advanced MicroDevices Inc. (AMD) as a Software Solutions Engineering Intern till the end of April 2024.
 
-My technical strong suits lie in developing algorithms, solutions, and systems in Python and C/C++ across diverse domains. I have industry experience in `Mobile Robotics`, `Machine Learning Engineering`, and `ASIC power optimization`. My research interests are in `Self-Driving Cars`, `Bio-inspired Robotics`, `Applied Machine Learning`, and `Brain Computer Interfaces (BCI)`.
+My passion is grounded in the study, design, and engineering of all things intelligent. This has attracted me to fields such as Robotics, Computational Neuroscience, Machine Learning, and lately, AI. I have industry experience in Robotics, ML Engineering, and Software Engineering. My research interests lie in Autonomous Vehicles, Bio-inspired Robotics, cool applications of ML, BCIs, and Conciousness.
 
-I'm presently seeking internships for Summer of 2024.  
+Hopefully one day I can discover something that unites these fields into one.
